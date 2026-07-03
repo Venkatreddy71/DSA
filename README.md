@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Venkatreddy71/DSA/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Venkatreddy71/DSA/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 <!---LeetCode Topics End-->
