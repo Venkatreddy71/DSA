@@ -5,6 +5,9 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             int x=nums[i];
             int count=0;
+            if(x==0){
+                count=1;
+            }
             while(x!=0){
                 x=x/10;
                 count++;
