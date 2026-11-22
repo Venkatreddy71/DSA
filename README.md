@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Venkatreddy71/DSA/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Venkatreddy71/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 <!---LeetCode Topics End-->
